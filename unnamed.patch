@@ -1,0 +1,13 @@
+Index: test 111.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- test 111.txt	(date 1561834907664)
++++ test 111.txt	(date 1561834907664)
+@@ -0,0 +1,4 @@
++test 111   bodyu
++22
++22
++22
+\ No newline at end of file
